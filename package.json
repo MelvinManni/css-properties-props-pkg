@@ -1,0 +1,25 @@
+{
+  "name": "css-properties-props",
+  "version": "1.0.0",
+  "description": "A package to ease working with component props related to css for typescript  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelvinManni/css-properties-props-pkg.git"
+  },
+  "keywords": [
+    "css",
+    "css-properties",
+    "css-props",
+    "css-types"
+  ],
+  "author": "Melvin Kosisochukwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MelvinManni/css-properties-props-pkg/issues"
+  },
+  "homepage": "https://github.com/MelvinManni/css-properties-props-pkg#readme"
+}
