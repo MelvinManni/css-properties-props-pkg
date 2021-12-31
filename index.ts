@@ -376,7 +376,7 @@ export type FONT_VARIANT_NUMERIC =
   | "diagonal-fractions"
   | "stacked-fractions";
 export type FONT_VARIANT_POSITION = "normal" | "sub" | "super";
-export type FONT_WEIGHT = "normal" | "bold" | "lighter" | "bolder";
+export type FONT_WEIGHT = "normal" | "bold" | "lighter" | "bolder" | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900;
 export type FOOTNOTE_DISPLAY = "normal" | "sub" | "super";
 export type FOOTNOTE_POLICY = "auto" | "line" | "block";
 export type FORCED_COLOR_ADJUST = "auto" | "none";
