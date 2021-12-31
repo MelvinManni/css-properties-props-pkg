@@ -1,6 +1,6 @@
 {
   "name": "css-properties-props",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package to ease working with component props related to css for typescript  ",
   "main": "index.js",
   "scripts": {
